@@ -1,0 +1,6 @@
+Things I learnt in class
+1. That there are different platforms besides GitHub for managing Git repositories.
+2. The meaning of version control.
+3. How to create a GitHub account
+4. How to add a readme file
+5. How commit changes in a file with Git 
