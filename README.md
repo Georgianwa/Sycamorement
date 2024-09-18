@@ -1,1 +1,1 @@
-# Sycamorement
+# Sycamore mentorship Git class
